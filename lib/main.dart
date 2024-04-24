@@ -34,9 +34,12 @@ void main() async {
       options: DefaultFirebaseOptions.currentPlatform,
     );
 
+    
     FirebaseMessaging.onBackgroundMessage(backgroundHandler);
+
   } catch (e) {
-    log(e.toString());
+
+   print("HATA KODU = ${e.toString()}");
   }
 
   runApp(ThingsboardApp());

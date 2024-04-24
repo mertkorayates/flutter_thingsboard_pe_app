@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511449001026",
+    "project_id": "eczacibasitest-bf00a",
+    "storage_bucket": "eczacibasitest-bf00a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511449001026:android:eeeb065de4be7edb59d1db",
+        "android_client_info": {
+          "package_name": "org.thingsboard.pe.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKhWingPoIK6JSsZgPtMKoGaR6Slh3BbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
